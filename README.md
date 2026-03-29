@@ -127,11 +127,11 @@ git push -u origin main
 This tool is part of an ongoing research programme in ML-based neurological rehabilitation:
 
 **Previous work:**
-> [Your Name] (2026). *Machine Learning-Based Drop-Foot Management System: Personalised Rehabilitation Recommendations Using Logistic Regression, Random Forest, and LightGBM*. [Journal Name].
+> [Samuel Oluwakoya ] (2026). *Machine Learning-Based Drop-Foot Management System: Personalised Rehabilitation Recommendations Using Logistic Regression, Random Forest, and LightGBM*. [Journal Name].
 > Live system: https://fdmapp.streamlit.app
 
 **This work:**
-> [Your Name] (2026). *Stroke Recovery Progress Tracker: A Machine Learning-Based Daily Monitoring System for Community Stroke Survivors*. [Target: Journal of NeuroEngineering and Rehabilitation / JMIR Rehabilitation and Assistive Technologies]
+> [Samuel Oluwakoya ] (2026). *Stroke Recovery Progress Tracker: A Machine Learning-Based Daily Monitoring System for Community Stroke Survivors*. [Target: Journal of NeuroEngineering and Rehabilitation / JMIR Rehabilitation and Assistive Technologies]
 
 ---
 
@@ -161,8 +161,8 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## 🙏 About the Author
 
-Built by **[Your Name]** — a computer science graduate, foot drop patient, and AI health researcher building machine learning tools to help stroke survivors regain independence.
+Built by **[Samuel Oluwakoya ]** — a computer science graduate, foot drop patient, and AI health researcher building machine learning tools to help stroke survivors regain independence.
 
 *"I built these tools because I live with the condition they address. Every line of code is personal."*
 
-📧 [your email] | 🐦 [LinkedIn] | 🔬 [ResearchGate]
+📧 [soluwakoyat@gmail.com]
