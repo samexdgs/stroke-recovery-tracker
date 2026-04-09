@@ -51,24 +51,6 @@ Training data is 2,000 simulated stroke survivor records with clinically informe
 - Plotly (charts)
 - pandas, numpy
 
----
-
-## Running locally
-
-```bash
-git clone https://github.com/samueloluwakoya/stroke-recovery-tracker.git
-cd stroke-recovery-tracker
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
-## Deploying to Streamlit Cloud
-
-Push to GitHub, go to share.streamlit.io, connect the repo, set the main file to app.py, and deploy. It is live in about two minutes.
-
----
 
 ## Where this fits in the wider project
 
@@ -91,11 +73,9 @@ Samuel Oluwakoya (2026). Stroke Recovery Progress Tracker: A Machine Learning Sy
 Target journals: Journal of NeuroEngineering and Rehabilitation, JMIR Rehabilitation and Assistive Technologies.
 
 ---
-
 ## Disclaimer
 
 This is a research tool. It has not been validated as a medical device and does not constitute clinical advice. Always follow the guidance of your physiotherapist or rehabilitation physician. If you are experiencing a medical emergency, call emergency services.
 
 ---
-
 Samuel Oluwakoya — computer science graduate, foot drop patient, AI health researcher.
