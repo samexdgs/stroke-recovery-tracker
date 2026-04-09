@@ -68,7 +68,7 @@ Each builds on the previous one. The clinical gaps that motivated each tool came
 
 ## Academic reference
 
-Samuel Oluwakoya (2026). Stroke Recovery Progress Tracker: A Machine Learning System for Daily Rehabilitation Monitoring in Community Stroke Survivors. GitHub. https://github.com/samueloluwakoya/stroke-recovery-tracker
+Samuel Oluwakoya (2026). Stroke Recovery Progress Tracker: A Machine Learning System for Daily Rehabilitation Monitoring in Community Stroke Survivors. GitHub. https://github.com/samexdgs/stroke-recovery-tracker
 
 Target journals: Journal of NeuroEngineering and Rehabilitation, JMIR Rehabilitation and Assistive Technologies.
 
