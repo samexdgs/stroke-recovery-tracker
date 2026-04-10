@@ -4,10 +4,10 @@ Stroke Recovery Progress Tracker
 A machine-learning powered Streamlit app for stroke survivors to track
 daily recovery, receive personalized recommendations, and visualize progress.
 
-Author: [Your Name]
-Institution: [Your University]
-GitHub: [Your GitHub URL]
-Live Demo: [Your Streamlit URL]
+Author: Samuel Oluwakoya
+Institution:: Afe Babalola University
+GitHub: https://github.com/samexdgs/stroke-recovery-tracker/
+Live Demo: https://stroketracker.streamlit.app/
 """
 
 import streamlit as st
@@ -885,12 +885,12 @@ def main():
 
         #### Citation
         If you use this tool in research, please cite:
-        > [Your Name] (2026). *Stroke Recovery Progress Tracker: An ML-Based Daily Monitoring System
-        > for Stroke Survivors*. GitHub. https://github.com/[your-username]/stroke-recovery-tracker
+        > [Samuel Oluwakoya] (2026). *Stroke Recovery Progress Tracker: An ML-Based Daily Monitoring System
+        > for Stroke Survivors*. GitHub. github.com/samexdgs/stroke-recovery-tracker/
 
         #### Contact
-        Built by [Your Name] — a computer scientist and foot drop patient building AI rehabilitation tools.
-        Reach out via GitHub Issues or [your email].
+        Built by Samuel Oluwakoya — A Computer scientist and foot drop patient building AI rehabilitation tools.
+        Reach out via GitHub Issues or soluwakoyat@gmail.com.
         """)
 
         st.markdown("""
