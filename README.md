@@ -1,6 +1,12 @@
 https://stroketracker.streamlit.app/
 # Stroke Recovery Progress Tracker
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2126--0254-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2126-0254)
+
+
 A daily monitoring tool for stroke survivors built with machine learning. Patients log how they feel each day and the system tells them whether their recovery is on track, plateauing, or needs attention — then gives specific recommendations based on what they reported.
 
 Built by Samuel Oluwakoya. This is the first tool in what has become a series of rehabilitation systems built from lived experience. Samuel has foot drop from a neurological condition and started building these tools because the feedback gap in home rehabilitation is real and largely unsolved by existing software.
